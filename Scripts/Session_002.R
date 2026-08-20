@@ -5,6 +5,7 @@
 # Create a variable using left_ward operator (<-)
 # ver_name <- value
 a <- 10
+b = -10
 a+2
 # Variable naming convention
 Age <- 10
@@ -53,6 +54,7 @@ num1/num2
 # Multiple condirions
 # And
 2 == 2 && 2 < 4
+2 == 2 & 2 < 4
 2 == 2 && 2 > 4
 # OR
 2 == 2 | 2 < 4
